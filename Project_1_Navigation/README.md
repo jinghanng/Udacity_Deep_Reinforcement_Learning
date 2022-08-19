@@ -1,5 +1,7 @@
 # Udacity_Deep_Reinforcement_Learning
 
+## Project 1: Navigation
+
 ### Project Details
 
 A reward of +1 is provided for collecting a yellow banana, and a reward of -1 is provided for collecting a blue banana. Thus, the goal of your agent is to collect as many yellow bananas as possible while avoiding blue bananas.
