@@ -47,7 +47,11 @@ Other actor-critic algorithms is proposed to solve this environment. For example
 ### References
 
 https://arxiv.org/pdf/1509.02971.pdf
+
 https://github.com/ShangtongZhang/DeepRL
+
 https://github.com/udacity/deep-reinforcement-learning/tree/master/ddpg-pendulum
+
 https://github.com/silviomori/udacity-deep-reinforcement-learning-p2-continuous-control
+
 https://github.com/ekaakurniawan/DRLND/tree/master/p2_continuous-control
