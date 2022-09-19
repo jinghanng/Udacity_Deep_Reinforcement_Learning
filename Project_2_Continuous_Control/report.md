@@ -40,6 +40,8 @@ The plot below shows the average score/rewards per episode over all 20 agents.
 It shows that the agents was able to receive an average reward of at least +30 over 100 episodes.
 The environment was solved in 0 episodes with an average score of 30.56.
 
+During testing, the score of 0.5 was exceeded in 2 episodes.
+
 ## Ideas for Future Work
 
 Other actor-critic algorithms is proposed to solve this environment. For example some of these algorithms are Asynchronous Advantage Actor-Critic (A3C), Advantage Actor-Critic (A2C), Generalized Advantage Estimation (GAE), Trust Region Policy Optimization (TRPO), Proximal Policy Optimization (PPO) and Distributed Distributional Deterministic Policy Gradients (D4PG).
